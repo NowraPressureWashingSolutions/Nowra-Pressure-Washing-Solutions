@@ -10,9 +10,10 @@ Ask me for any real value you don't have (phone, domain, social URLs) rather tha
 ## 2. Drop in the real details
 - [ ] Replace the three social URLs in the footer of `app/page.js`
       (`YOUR-PAGE`, `YOUR-HANDLE`). Remove any platform we don't use.
-- [ ] Find/replace `YOURDOMAIN.com.au` with the real domain in `app/layout.js`
-      and in the JSON-LD inside `app/page.js`.
-- [ ] Replace `04XX XXX XXX` with the real phone number everywhere it appears.
+- [x] Find/replace `YOURDOMAIN.com.au` with the real domain (`nowrapressurewashingsolutions.com.au`)
+      in `app/layout.js` and in the JSON-LD inside `app/page.js`. Email updated to
+      `enquiries@nowrapressurewashingsolutions.com.au` throughout.
+- [ ] Replace `04XX XXX XXX` with the real phone number everywhere it appears (still pending).
 
 ## 3. Social share image
 - [ ] Add `public/social-share.jpg` (~1200×630) and confirm the Open Graph / Twitter

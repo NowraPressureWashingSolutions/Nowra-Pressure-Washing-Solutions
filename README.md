@@ -31,8 +31,7 @@ Open `app/page.js` and search for **YOUR-PAGE** and **YOUR-HANDLE**. Update the 
 Delete any platform you don't use (remove that whole `<a>…</a>` line).
 
 ## Still to finalise before going live
-- Replace **YOURDOMAIN.com.au** (in `app/layout.js` metadata and the JSON-LD in `app/page.js`).
-- Replace the **04XX XXX XXX** phone placeholder.
+- Replace the **04XX XXX XXX** phone placeholder once a number is available.
 - Add a **social-share.jpg** (≈1200×630) to `public/` for the link-preview image referenced in the metadata.
 - The footer "Terms & Conditions" link points to `/terms-and-conditions.pdf` — the PDF is already in `public/`.
 

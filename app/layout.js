@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  metadataBase: new URL('https://YOURDOMAIN.com.au'),
+  metadataBase: new URL('https://nowrapressurewashingsolutions.com.au'),
   title: 'Pressure Washing Nowra & the Shoalhaven | Nowra Pressure Washing Solutions',
   description:
     'Locally owned pressure washing in Nowra & the Shoalhaven. Driveways, house washing, decks, plus heated-water cleaning for fleet & machinery. Free, same-day quotes.',
