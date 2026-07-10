@@ -25,8 +25,10 @@ Ask me for any real value you don't have (phone, domain, social URLs) rather tha
       Keep the same fields and validation.
 
 ## 5. SEO plumbing (once the domain is set)
-- [ ] Add `app/robots.js` and `app/sitemap.js` (Next.js metadata routes).
-- [ ] Confirm `metadataBase` in `app/layout.js` matches the live domain.
+- [x] Add `app/robots.js` and `app/sitemap.js` (Next.js metadata routes).
+- [x] Confirm `metadataBase` in `app/layout.js` matches the live domain.
+- [ ] (Owner action) Set up Google Search Console, verify the domain, submit the
+      sitemap, and request indexing on the homepage.
 
 ## 6. Optional quality refactor (only if asked)
 - [ ] Split `app/page.js` into components: `Header`, `Hero` (before/after slider),
