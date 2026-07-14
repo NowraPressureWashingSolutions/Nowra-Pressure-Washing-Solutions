@@ -62,8 +62,8 @@ header.scrolled{box-shadow:0 12px 30px -18px rgba(0,0,0,.7)}
 .trust b::before{content:"";width:8px;height:8px;background:var(--hi);transform:rotate(45deg);flex:none}
 .slab{position:relative;aspect-ratio:3/4;border:1px solid rgba(255,255,255,.16);box-shadow:0 40px 80px -40px rgba(0,0,0,.7);user-select:none;touch-action:none;overflow:hidden}
 .slab .layer{position:absolute;inset:0;background-size:cover;background-position:center bottom}
-.slab .before{background-image:url('/before.jpg')}
-.slab .after{clip-path:inset(0 0 0 50%);background-image:url('/after.jpg')}
+.slab .before{background-image:url('/before-v2.jpg')}
+.slab .after{clip-path:inset(0 0 0 50%);background-image:url('/after-v2.jpg')}
 .slab::after{content:"";position:absolute;inset:0;pointer-events:none;box-shadow:inset 0 0 60px rgba(0,0,0,.3)}
 .slab .divider{position:absolute;top:0;bottom:0;left:50%;width:3px;background:var(--hi);transform:translateX(-50%);pointer-events:none;box-shadow:0 0 0 1px rgba(0,0,0,.25),0 0 22px rgba(244,168,29,.55)}
 .slab .knob{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:52px;height:52px;border-radius:50%;background:var(--hi);border:3px solid #fff;display:grid;place-items:center;cursor:ew-resize;box-shadow:0 8px 20px -6px rgba(0,0,0,.6)}

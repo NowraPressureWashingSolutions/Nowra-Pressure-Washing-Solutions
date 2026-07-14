@@ -10,7 +10,7 @@ const JSONLD = {
   name: 'Nowra Pressure Washing Solutions',
   url: 'https://nowrapressurewashingsolutions.com.au/',
   image: 'https://nowrapressurewashingsolutions.com.au/social-share.jpg',
-  logo: 'https://nowrapressurewashingsolutions.com.au/logo.png',
+  logo: 'https://nowrapressurewashingsolutions.com.au/logo-v2.png',
   description:
     'Locally owned, insured pressure washing in Nowra and the wider Shoalhaven — driveways, patios, pavers, sandstone, retaining walls, decks and timber, plus hot-water cleaning for trucks, fleet, machinery and end-of-lease jobs.',
   slogan: 'Watch the years wash off.',
@@ -162,7 +162,7 @@ export default function Home() {
       <header id="hdr">
         <div className="wrap nav">
           <a className="brand" href="#top" aria-label="Nowra Pressure Washing Solutions home">
-            <img src="/logo.png" alt="Nowra Pressure Washing Solutions logo" width="1204" height="546" decoding="async" />
+            <img src="/logo-v2.png" alt="Nowra Pressure Washing Solutions logo" width="1204" height="546" decoding="async" />
           </a>
           <nav className="nav-links">
             <a href="#services">Services</a>
@@ -373,7 +373,7 @@ export default function Home() {
         <div className="wrap">
           <div className="foot-grid">
             <div className="foot-brand">
-              <img src="/logo.png" alt="Nowra Pressure Washing Solutions logo" width="1204" height="546" decoding="async" />
+              <img src="/logo-v2.png" alt="Nowra Pressure Washing Solutions logo" width="1204" height="546" decoding="async" />
               <p>Reliable, professional exterior cleaning for homes and business across Nowra and the surrounds &mdash; done properly, on time.</p>
               <div className="socials" aria-label="Follow us">
                 <a href="https://www.facebook.com/YOUR-PAGE" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 12a10 10 0 1 0-11.56 9.88v-6.99H7.9V12h2.54V9.8c0-2.5 1.49-3.89 3.77-3.89 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56V12h2.78l-.44 2.89h-2.34v6.99A10 10 0 0 0 22 12z" /></svg></a>
