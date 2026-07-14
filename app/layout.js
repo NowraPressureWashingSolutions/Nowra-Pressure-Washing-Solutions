@@ -4,15 +4,19 @@ export const metadata = {
   metadataBase: new URL('https://nowrapressurewashingsolutions.com.au'),
   title: 'Pressure Washing Nowra & the Shoalhaven | Nowra Pressure Washing Solutions',
   description:
-    'Locally owned pressure washing in Nowra & the Shoalhaven. Driveways, house washing, decks, plus heated-water cleaning for fleet & machinery. Free, same-day quotes.',
+    'Locally owned, insured pressure washing across Nowra and the Shoalhaven. Driveways, patios, pavers, sandstone, decks, fleet and end-of-lease cleaning. Free, same-day quotes.',
   alternates: { canonical: '/' },
-  robots: { index: true, follow: true },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, 'max-image-preview': 'large' },
+  },
   openGraph: {
     type: 'website',
     siteName: 'Nowra Pressure Washing Solutions',
     title: 'Pressure Washing Nowra & the Shoalhaven',
     description:
-      'Locally owned pressure washing in Nowra & the Shoalhaven. Driveways, house washing, decks, plus heated-water cleaning for fleet & machinery. Free, same-day quotes.',
+      'Locally owned, insured pressure washing across Nowra and the Shoalhaven. Driveways, patios, pavers, sandstone, decks, fleet and end-of-lease cleaning. Free, same-day quotes.',
     locale: 'en_AU',
     url: '/',
     images: ['/social-share.jpg'],
