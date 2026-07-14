@@ -194,7 +194,7 @@ footer{background:var(--ink);color:#8CA6B4;padding:3rem 0 2.2rem}
   .nav-right .btn{display:none}
   .burger{display:flex}
   .hero-grid{grid-template-columns:1fr;gap:2.4rem;padding:2.6rem 0 3rem}
-  .slab{max-width:420px;margin-inline:auto;aspect-ratio:4/5}
+  .slab{width:100%;max-width:420px;margin-inline:auto;aspect-ratio:4/5}
   .svc-grid,.reviews{grid-template-columns:1fr 1fr}
   .area-grid,.quote-grid,.foot-grid{grid-template-columns:1fr}
   .why-item:nth-child(odd){border-right:0}
