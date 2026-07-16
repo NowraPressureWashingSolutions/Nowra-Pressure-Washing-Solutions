@@ -13,7 +13,7 @@ Ask me for any real value you don't have (phone, domain, social URLs) rather tha
 - [x] Find/replace `YOURDOMAIN.com.au` with the real domain (`nowrapressurewashingsolutions.com.au`)
       in `app/layout.js` and in the JSON-LD inside `app/page.js`. Email updated to
       `enquiries@nowrapressurewashingsolutions.com.au` throughout.
-- [ ] Replace `04XX XXX XXX` with the real phone number everywhere it appears (still pending).
+- [x] Replace `04XX XXX XXX` with the real phone number (`0401 455 632`) everywhere it appears.
 
 ## 3. Social share image
 - [ ] Add `public/social-share.jpg` (~1200×630) and confirm the Open Graph / Twitter

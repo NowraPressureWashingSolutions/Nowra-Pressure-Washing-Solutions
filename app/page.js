@@ -14,6 +14,7 @@ const JSONLD = {
   description:
     'Locally owned, insured pressure washing in Nowra and the wider Shoalhaven — driveways, patios, pavers, sandstone, retaining walls, decks and timber, plus hot-water cleaning for trucks, fleet, machinery and end-of-lease jobs.',
   slogan: 'Watch the years wash off.',
+  telephone: '+61401455632',
   email: 'enquiries@nowrapressurewashingsolutions.com.au',
   priceRange: '$$',
   currenciesAccepted: 'AUD',
@@ -172,7 +173,7 @@ export default function Home() {
             <a href="#faq">FAQ</a>
           </nav>
           <div className="nav-right">
-            <a className="nav-phone" href="tel:04XXXXXXXX"><span>Call today</span>04XX XXX XXX</a>
+            <a className="nav-phone" href="tel:+61401455632"><span>Call today</span>0401 455 632</a>
             <a className="btn btn-hi" href="#quote">Get a free quote</a>
             <button className="burger" id="burger" aria-label="Menu"><i></i><i></i><i></i></button>
           </div>
@@ -183,7 +184,7 @@ export default function Home() {
           <a href="#reviews">Reviews</a>
           <a href="#area">Service area</a>
           <a href="#faq">FAQ</a>
-          <a href="tel:04XXXXXXXX">Call 04XX XXX XXX</a>
+          <a href="tel:+61401455632">Call 0401 455 632</a>
           <a className="btn btn-hi" href="#quote">Get a free quote</a>
         </nav>
       </header>
@@ -197,7 +198,7 @@ export default function Home() {
               <p className="lede">Reliable pressure washing for homes and business across Nowra and the Shoalhaven &mdash; from driveways, houses and decks to fleet washing and greasy machinery, cleaned properly with heated water. Clearing mould and organic growth doesn&rsquo;t just lift the look; it directly reduces the chance of falls, important around the house, critical at your business.</p>
               <div className="hero-actions">
                 <a className="btn btn-hi" href="#quote">Get a free quote</a>
-                <a className="btn btn-ghost" href="tel:04XXXXXXXX">Call 04XX XXX XXX</a>
+                <a className="btn btn-ghost" href="tel:+61401455632">Call 0401 455 632</a>
               </div>
               <div className="trust">
                 <b>Locally owned &amp; insured</b><b>Hot-water gear</b><b>Health professional endorsed</b>
@@ -337,7 +338,7 @@ export default function Home() {
               <h2>Tell us what needs cleaning</h2>
               <p className="lede">Send a few details and we&rsquo;ll get back to you the same day with a price range. No obligation, no pressure.</p>
               <div className="contactlist">
-                <a href="tel:04XXXXXXXX"><span className="ci"><svg viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a12 12 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z" /></svg></span>04XX XXX XXX</a>
+                <a href="tel:+61401455632"><span className="ci"><svg viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a12 12 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z" /></svg></span>0401 455 632</a>
                 <a href="mailto:enquiries@nowrapressurewashingsolutions.com.au"><span className="ci"><svg viewBox="0 0 24 24"><path d="M3 6h18v12H3z" /><path d="m3 7 9 6 9-6" /></svg></span>enquiries@nowrapressurewashingsolutions.com.au</a>
               </div>
             </div>
@@ -363,7 +364,7 @@ export default function Home() {
               </div>
               <div className="field full"><label htmlFor="notes">Anything else? (size, condition, access)</label><textarea id="notes" name="notes"></textarea></div>
               <button className="btn btn-hi" type="submit">Send my enquiry</button>
-              <p className="hint">Opens your email app with the details ready to send. Prefer to talk? Call 04XX XXX XXX.</p>
+              <p className="hint">Opens your email app with the details ready to send. Prefer to talk? Call 0401 455 632.</p>
             </form>
           </div>
         </section>
@@ -396,7 +397,7 @@ export default function Home() {
             </div>
             <div className="foot-col">
               <h4>Contact</h4>
-              <a href="tel:04XXXXXXXX">04XX XXX XXX</a>
+              <a href="tel:+61401455632">0401 455 632</a>
               <a href="mailto:enquiries@nowrapressurewashingsolutions.com.au">enquiries@nowrapressurewashingsolutions.com.au</a>
               <a href="#quote">Request a quote</a>
             </div>

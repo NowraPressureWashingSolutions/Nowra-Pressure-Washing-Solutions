@@ -33,6 +33,7 @@ hand-built single-file HTML site into **Next.js (App Router)**.
 - Registered business name: **NOWRA PRESSURE WASHING SOLUTIONS**
 - ABN: **21 785 952 316**  (it is a registered business name — **not** a Pty Ltd company;
   do NOT add "Pty Ltd" or an ACN unless the owner confirms one exists)
+- Phone: **0401 455 632** (use `tel:+61401455632` for links)
 - Email: **enquiries@nowrapressurewashingsolutions.com.au**
 - Domain: **nowrapressurewashingsolutions.com.au**
 - Area: based in Nowra, servicing Berry to Sussex Inlet and the wider Shoalhaven, NSW
@@ -44,7 +45,6 @@ hand-built single-file HTML site into **Next.js (App Router)**.
   **Roofs and gutters are intentionally excluded.**
 
 ## Placeholders to replace before launch
-- `04XX XXX XXX` → real phone number (still pending — leave as placeholder until provided)
 - Social links in the footer of `app/page.js`: `YOUR-PAGE` / `YOUR-HANDLE`
 - Add `public/social-share.jpg` (~1200×630) for the link-preview image referenced in metadata
 
